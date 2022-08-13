@@ -2,7 +2,7 @@
   "name": "react_form",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Ranul1708.github.io/Multi-Step-form",
+  "homepage": "https://Ranul1708.github.io/multistepform",
   "dependencies": {
     "@emotion/react": "^11.10.0",
     "@emotion/styled": "^11.10.0",
